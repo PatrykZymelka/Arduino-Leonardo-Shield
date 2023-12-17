@@ -1,0 +1,27 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 8:36:14 PM On 8/12/2023
+
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [PCB1_AUTO.PcbDoc]
+   Generated File[PCB1_AUTO.GTO]
+   Generated File[PCB1_AUTO.GTP]
+   Generated File[PCB1_AUTO.GTS]
+   Generated File[PCB1_AUTO.GTL]
+   Generated File[PCB1_AUTO.GBL]
+   Generated File[PCB1_AUTO.GBS]
+   Generated File[PCB1_AUTO.GBP]
+   Generated File[PCB1_AUTO.GBO]
+   Generated File[PCB1_AUTO.GKO]
+   Generated File[PCB1_AUTO.GD1]
+   Generated File[PCB1_AUTO.GG1]
+   Generated File[PCB1_AUTO.GM]
+   Generated File[PCB1_AUTO.EXTREP]
+   Generated File[PCB1_AUTO.REP]
+
+
+Files Generated   : 14
+Documents Printed : 0
+
+Finished Output Generation At 8:36:17 PM On 8/12/2023

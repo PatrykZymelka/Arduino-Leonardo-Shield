@@ -1,0 +1,36 @@
+Added Component: Designator=J8(SAMTEC_SSW-108-XX-X-S)
+Add component (AddParameter): Name = "Availability"; Value = "Bad"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Check_prices"; Value = "https://www.snapeda.com/parts/SSW-108-03-F-S/Samtec/view-part/3433832/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MF"; Value = "Samtec"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "MP"; Value = "SSW-108-03-F-S"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "None"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Purchase-URL"; Value = "https://pricing.snapeda.com/search/part/SSW-108-03-F-S/?ref=eda"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SnapEDA_Link"; Value = "https://www.snapeda.com/parts/SSW-108-03-F-S/Samtec/view-part/3433832/?ref=snap"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetJ8_01 Pin=J8-01
+Added Pin To Net: NetName=NetJ8_01 Pin=U1-31
+Added Net: Name=NetJ8_01
+Added Pin To Net: NetName=NetJ8_02 Pin=J8-02
+Added Pin To Net: NetName=NetJ8_02 Pin=U1-30
+Added Net: Name=NetJ8_02
+Added Pin To Net: NetName=NetJ8_03 Pin=J8-03
+Added Pin To Net: NetName=NetJ8_03 Pin=U1-29
+Added Net: Name=NetJ8_03
+Added Pin To Net: NetName=NetJ8_04 Pin=J8-04
+Added Pin To Net: NetName=NetJ8_04 Pin=U1-28
+Added Net: Name=NetJ8_04
+Added Pin To Net: NetName=NetJ8_05 Pin=J8-05
+Added Pin To Net: NetName=NetJ8_05 Pin=U1-27
+Added Net: Name=NetJ8_05
+Added Pin To Net: NetName=NetJ8_06 Pin=J8-06
+Added Pin To Net: NetName=NetJ8_06 Pin=U1-26
+Added Net: Name=NetJ8_06
+Added Pin To Net: NetName=NetJ8_07 Pin=J8-07
+Added Pin To Net: NetName=NetJ8_07 Pin=U1-25
+Added Net: Name=NetJ8_07
+Added Pin To Net: NetName=NetJ8_08 Pin=J8-08
+Added Pin To Net: NetName=NetJ8_08 Pin=U1-24
+Added Net: Name=NetJ8_08
+Added Member To Class: ClassName=S1 Member=Component C10 0805ZD225MAT2A
+Added Member To Class: ClassName=S1 Member=Component J8 SSW-108-03-T-S

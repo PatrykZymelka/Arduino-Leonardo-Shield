@@ -1,0 +1,39 @@
+Replace Part C1 SSW-103-03-T-D in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-103-03-T-D from SSW-103-03-T-D.IntLib
+Update Managed Component C2 From CMP-2007-04454-2[100nF] To CMP-2007-04454-2[0805YC104KAT2A] in S1.SchDoc
+Update Managed Component C3 From CMP-2007-04454-2[100nF] To CMP-2007-04454-2[0805YC104KAT2A] in S1.SchDoc
+Update Managed Component C4 From CMP-2007-04454-2[100nF] To CMP-2007-04454-2[0805YC104KAT2A] in S1.SchDoc
+Update Managed Component C5 From CMP-2007-04708-2[10nF] To CMP-2007-04708-2[0805YC103KAT2A] in S1.SchDoc
+Update Managed Component C6 From CMP-13271-002990-1[22uF] To CMP-13271-002990-1[CL21A226MOCLRNC] in S1.SchDoc
+Update Managed Component C7 From CMP-13271-002990-1[22uF] To CMP-13271-002990-1[CL21A226MOCLRNC] in S1.SchDoc
+Update Managed Component C8 From CMP-2007-04454-2[100nF] To CMP-2007-04454-2[0805YC104KAT2A] in S1.SchDoc
+Update Managed Component C9 From CMP-2008-03079-2[10nF] To CMP-2008-03079-2[C0402C103M8RACTU] in S1.SchDoc
+Update Managed Component C10 From CMP-2007-04684-2[2.2uF] To CMP-2007-04684-2[0805ZD225MAT2A] in S1.SchDoc
+Update Managed Component C11 From CMP-2007-04684-2[2.2uF] To CMP-2007-04684-2[0805ZD225MAT2A] in S1.SchDoc
+Update Managed Component C12 From CMP-2007-04708-2[10nF] To CMP-2007-04708-2[0805YC103KAT2A] in S1.SchDoc
+Update Managed Component C13 From CMP-2007-04454-2[100nF] To CMP-2007-04454-2[0805YC104KAT2A] in S1.SchDoc
+Update Managed Component D1 From CMP-44529-000024-1[Green Diode] To CMP-44529-000024-1[APT1608ZGCK] in S1.SchDoc
+Update Managed Component D2 From CMP-2000-05787-2[Red Diode] To CMP-2000-05787-2[APHHS1005SURCK] in S1.SchDoc
+Update Managed Component D3 From CMP-44529-000024-1[Green Diode] To CMP-44529-000024-1[APT1608ZGCK] in S1.SchDoc
+Update Managed Component FB1 From CMP-0686-00554-8[120] To CMP-0686-00554-8[BLM18KG121TN1D] in S1.SchDoc
+Update Managed Component FB? From CMP-0686-00554-8[120] To CMP-0686-00554-8[BLM18KG121TN1D] in S1.SchDoc
+Replace Part J USB3080-XX-00-A_REVE in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with USB3080-XX-00-A_REVE from USB3080-XX-00-A_REVE.IntLib
+Replace Part J1 SSW-110-03-T-S in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-110-03-T-S from SSW-110-03-T-S.IntLib
+Replace Part J2 SSW-108-XX-X-S in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-108-XX-X-S from SSW-108-03-T-S.IntLib
+Replace Part J3 SSW-108-XX-X-S in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-108-XX-X-S from SSW-108-03-T-S.IntLib
+Replace Part J4 SSW-106-03-T-S in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-106-03-T-S from SSW-106-03-T-S.IntLib
+Replace Part J5 SSW-103-03-T-D in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-103-03-T-D from SSW-103-03-T-D.IntLib
+Replace Part J6 SSW-104-02-T-S in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-104-02-T-S from SSW-104-02-T-S.IntLib
+Replace Part J7 SSW-104-02-T-S in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with SSW-104-02-T-S from SSW-104-02-T-S.IntLib
+Update Managed Component R1 From CMP-2000-03412-1[4.7k] To CMP-2000-03412-1[CRCW06034K70FKTA] in S1.SchDoc
+Update Managed Component R2 From CMP-2000-03412-1[4.7k] To CMP-2000-03412-1[CRCW06034K70FKTA] in S1.SchDoc
+Update Managed Component R3 From CMP-2000-03412-1[4.7k] To CMP-2000-03412-1[CRCW06034K70FKTA] in S1.SchDoc
+Update Managed Component R4 From CMP-2002-04643-1[1k] To CMP-2002-04643-1[1-1622826-8] in S1.SchDoc
+Update Managed Component R5 From CMP-02407-013075-1[FC0402E50R0BTBST1] To CMP-02407-013075-1[FC0402E50R0BTBST1] in S1.SchDoc
+Update Managed Component R6 From CMP-13261-004965-1[RC1005F331CS] To CMP-13261-004965-1[RC1005F331CS] in S1.SchDoc
+Update Managed Component R7 From CMP-1015-00655-2[20k] To CMP-1015-00655-2[CRCW121020K0FKTA] in S1.SchDoc
+Replace Part S1 D6R90_F1_LFS in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with D6R90_F1_LFS from D6R90_F1_LFS.IntLib
+Replace Part S2 D6R90_F1_LFS in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with D6R90_F1_LFS from D6R90_F1_LFS.IntLib
+Update Managed Component U1 From CMP-0235-00048-1[STM8L152C6T6] To CMP-0235-00048-1[STM8L152C6T6] in S1.SchDoc
+Update Managed Component U2 From CMP-209535-000001-1[AMS1117-3.3] To CMP-209535-000001-1[AMS1117-3.3] in S1.SchDoc
+Replace Part U3 VEML6030 in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with VEML6030 from VEML6030.IntLib
+Replace Part U4 TMP1075NDRLR in C:\Users\Patryk\Downloads\Arduino Leonardo Shield_2\S1.SchDoc with TMP1075NDRLR from TMP1075NDRLR.IntLib

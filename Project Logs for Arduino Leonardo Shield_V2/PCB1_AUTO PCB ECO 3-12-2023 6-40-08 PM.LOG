@@ -1,0 +1,126 @@
+Removed Pin From Net: NetName=NRST Pin=J6-01
+Removed Pin From Net: NetName=GND Pin=J6-02
+Removed Pin From Net: NetName=SWIM Pin=J6-03
+Removed Pin From Net: NetName=+3V3 Pin=J6-04
+Removed Pin From Net: NetName=TX Pin=J7-01
+Removed Pin From Net: NetName=RX Pin=J7-02
+Removed Pin From Net: NetName=GND Pin=J7-03
+Removed Pin From Net: NetName=+3V3 Pin=J7-04
+Change Component Footprint: Designator=J6 Old Footprint=SAMTEC_SSW-104-02-T-S New Footprint=FP-MTLW-104-05-G-S-185-MFG
+Change Component Footprint: Designator=J7 Old Footprint=SAMTEC_SSW-104-02-T-S New Footprint=FP-MTLW-104-05-G-S-185-MFG
+Change Component Footprint: Designator=J8 Old Footprint=SAMTEC_SSW-108-XX-X-S New Footprint=FP-SSM-108-S-SV-MFG
+Change Component Comment : Designator=J6 Old Comment=SSW-104-02-T-S New Comment=MTLW-104-05-G-S-185
+Change Component Comment : Designator=J7 Old Comment=SSW-104-02-T-S New Comment=MTLW-104-05-G-S-185
+Change Component Comment : Designator=J8 Old Comment=SSW-108-03-T-S New Comment=SSM-108-S-SV
+Change Managed Component Library Link : Designator=J6 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2E4EE6AD-E991-4599-831B-ED4A3E915802 Old RevisionGUID= New RevisionGUID=A8C07CB5-925A-41FD-BE62-D57388C1C55B
+Change Managed Component Library Link : Designator=J7 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=2E4EE6AD-E991-4599-831B-ED4A3E915802 Old RevisionGUID= New RevisionGUID=A8C07CB5-925A-41FD-BE62-D57388C1C55B
+Change Managed Component Library Link : Designator=J8 Old VaultGUID= New VaultGUID=B7D15EC3-160A-466F-A46C-7801FE6295A7 Old ItemGUID= New ItemGUID=C6353210-3411-4F7D-B99C-56F7D0AB6D6A Old RevisionGUID= New RevisionGUID=E9147615-A4D7-48C2-9EB4-179A0808E2AE
+Change component parameters: Designator = "J6" ("J6"); Footprint = "SAMTEC_SSW-104-02-T-S"; UniqueID = "\BHVMPJRD" ("\BHVMPJRD")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "0.185inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "15mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "2.48mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "29.64mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J7" ("J7"); Footprint = "SAMTEC_SSW-104-02-T-S"; UniqueID = "\KSGAGAKR" ("\KSGAGAKR")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Male Pin"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Brass"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Mating Length"; Value = "0.185inch"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "15mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "2.48mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Male"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "6.4mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "29.64mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "105°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-40°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Through Hole"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "4"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Rail/Tube"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J8" ("J8"); Footprint = "SAMTEC_SSW-108-XX-X-S"; UniqueID = "\SCNXXKUK" ("\SCNXXKUK")
+Change component parameters (AddParameter): Name = "Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Connector Type"; Value = "Receptacle"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Material"; Value = "Bronze"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Plating"; Value = "Gold"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Resistance"; Value = "10mR"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Contact Type"; Value = "Female Socket"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Depth"; Value = "4.42mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Gender"; Value = "Female"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Color"; Value = "Black"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Housing Material"; Value = "Polymer"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Lead Free"; Value = "Lead Free"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Length"; Value = "20.32mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Current Rating"; Value = "6.9A"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Operating Temperature"; Value = "125°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Max Voltage Rating (AC)"; Value = "475V"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Min Operating Temperature"; Value = "-55°C"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mount"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Contacts"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Positions"; Value = "8"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Number of Rows"; Value = "1"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Orientation"; Value = "Straight"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Packaging"; Value = "Bulk"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Pitch"; Value = "2.54mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Radiation Hardening"; Value = "No"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RoHS Compliant"; Value = "Yes"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Series"; Value = "SSM"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Termination"; Value = "Solder"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Width"; Value = "2.54mm"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NRST Pin=J6-1
+Added Pin To Net: NetName=GND Pin=J6-2
+Added Pin To Net: NetName=SWIM Pin=J6-3
+Added Pin To Net: NetName=+3V3 Pin=J6-4
+Added Pin To Net: NetName=TX Pin=J7-1
+Added Pin To Net: NetName=RX Pin=J7-2
+Added Pin To Net: NetName=GND Pin=J7-3
+Added Pin To Net: NetName=+3V3 Pin=J7-4
+Added Pin To Net: NetName=B0 Pin=J8-1
+Added Pin To Net: NetName=B0 Pin=U1-24
+Added Net: Name=B0
+Added Pin To Net: NetName=B1 Pin=J8-2
+Added Pin To Net: NetName=B1 Pin=U1-25
+Added Net: Name=B1
+Added Pin To Net: NetName=B2 Pin=J8-3
+Added Pin To Net: NetName=B2 Pin=U1-26
+Added Net: Name=B2
+Added Pin To Net: NetName=B3 Pin=J8-4
+Added Pin To Net: NetName=B3 Pin=U1-27
+Added Net: Name=B3
+Added Pin To Net: NetName=B4 Pin=J8-5
+Added Pin To Net: NetName=B4 Pin=U1-28
+Added Net: Name=B4
+Added Pin To Net: NetName=B5 Pin=J8-6
+Added Pin To Net: NetName=B5 Pin=U1-29
+Added Net: Name=B5
+Added Pin To Net: NetName=B6 Pin=J8-7
+Added Pin To Net: NetName=B6 Pin=U1-30
+Added Net: Name=B6
+Added Pin To Net: NetName=B7 Pin=J8-8
+Added Pin To Net: NetName=B7 Pin=U1-31
+Added Net: Name=B7
